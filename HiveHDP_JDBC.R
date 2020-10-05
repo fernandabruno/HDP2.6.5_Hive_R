@@ -9,8 +9,6 @@ library("DBI")
 library("rJava")
 library("RJDBC")
 
-options( java.parameters = "-Xmx8g" )
-
 #init of the classpath (tested with HD 2.6.5 Sandbox)
 cp = c("/usr/hdp/2.6.5.0-292/hadoop/hadoop-common.jar",
        "/usr/hdp/2.6.5.0-292/hadoop/hadoop-auth.jar", 
