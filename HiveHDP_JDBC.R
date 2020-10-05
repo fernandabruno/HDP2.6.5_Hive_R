@@ -1,7 +1,7 @@
 #########################
 ###    Hive + RJDBC   ###
 ### HDP 2.6.5 Sandbox ###
-### October 5,2020 ###
+####  October 5,2020 ####
 #########################
 
 #Loading required libraries
